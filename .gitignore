@@ -1,0 +1,9 @@
+# Données internes de MinIO
+minio_data/
+
+# Identifiants locaux
+.env
+
+# Fichiers temporaires Python
+__pycache__/
+*.pyc

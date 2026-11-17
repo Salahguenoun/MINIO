@@ -1,0 +1,7 @@
+minio
+pandas
+pyarrow
+openpyxl
+pillow
+reportlab
+python-dotenv
